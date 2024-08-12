@@ -1,10 +1,18 @@
-## Oii! Eu sou Leonardo Fernandes👋
+# 👋 Olá, Eu sou leonardo!
+### Técnico em Redes de Computadores | Google Cloud | 1x Certificado Microsoft DP-900 | Cursando Sistemas de Informação | Cursando Técnico em Análise e Desenvolvimento de Sistemas
+---
+### Sobre Mim:
+- 🌱 Estou aprendendo Python e Django;
+- 💬 Pergunte-me sobre qualquer coisa, estou feliz em ajudar;
+- ⚡️ Curiosidade: 4º lugar no projeto Saga Senai 2023;
+---
+
 <div style="display: flex; flex-direction: row; justify-content: space-around;"
 <a href="https://github.com/LeonardoFernandess/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoFernandess&theme=dracula" />
+  <img height=200 width=420 align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoFernandess&theme=dracula" />
 </a>
 <a href="https://github.com/LeonardoFernandess/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoFernandess&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=200 width=420 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoFernandess&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 </div>
 
@@ -19,7 +27,7 @@
   
 </div>
 <br>
- 
+
 <div> 
   <a href="https://www.linkedin.com/in/leonardo-fernandes-3550a3242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
