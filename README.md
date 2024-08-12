@@ -1,10 +1,12 @@
 ## Oii! Eu sou Leonardo Fernandes👋
+<div style="display: flex; flex-direction: row; justify-content: space-around;"
 <a href="https://github.com/LeonardoFernandess/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeonardoFernandess&theme=dracula" />
 </a>
 <a href="https://github.com/LeonardoFernandess/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoFernandess&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
