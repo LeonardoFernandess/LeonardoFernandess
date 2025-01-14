@@ -1,5 +1,5 @@
 # 👋 Olá, Eu sou leonardo!
-### Técnico em Redes de Computadores | Google Cloud | 1x Certificado Microsoft DP-900 | Cursando Sistemas de Informação | Cursando Técnico em Análise e Desenvolvimento de Sistemas
+### Técnico em Redes de Computadores | Técnico em Análise e Desenvolvimento de Sistemas | Google Cloud | 1x Certificado Microsoft DP-900 | Cursando Sistemas de Informação | Estudando Ciência de Dados
 ---
 ### Sobre Mim:
 - 🌱 Estou aprendendo Python e Django;
